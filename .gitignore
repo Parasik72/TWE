@@ -1,2 +1,6 @@
 /.vscode
 /build
+/external
+/test/scripts/temp
+/test/build
+/lib
